@@ -16,7 +16,7 @@ a{
 }
 
 .header{
-    background-image: url('../img/fon.jpg');
+    background-image: url('./fon.jpg');
     background-repeat: no-repeat;
     background-size:cover;
     background-position: top center;
@@ -155,7 +155,7 @@ a{
     display: block;
     width: 20px;
     height: 20px;
-    background-image: url('../img/icon.svg');
+    background-image: url('./icon.svg');
     position: absolute;
     right: 1px;
     top: 1px;
